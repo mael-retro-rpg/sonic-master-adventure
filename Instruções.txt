@@ -1,0 +1,39 @@
+============================================================
+SONIC MASTER ADVENTURE - GUIA DE INSTALAÇÃO
+============================================================
+
+Obrigado por baixar Sonic Master Adventure!
+Siga as instruções abaixo para instalar o jogo na sua plataforma preferida.
+
+------------------------------------------------------------
+[1] VERSÃO PC (WINDOWS)
+------------------------------------------------------------
+1. Baixe o arquivo .ZIP do jogo.
+2. Clique com o botão direito no arquivo e escolha "Extrair Tudo" (ou use o WinRAR/7-Zip).
+3. Abra a pasta extraída e execute o arquivo "Setup.exe".
+4. Siga os passos do instalador.
+   IMPORTANTE: Na tela de opções, marque a caixa "Create a Program shortcut folder?" para criar um ícone no seu Menu Iniciar.
+
+> Pasta de Instalação Padrão:
+  "C:\Program Files (x86)\Enterbrain\RPG2000\Sonic Master Adventure"
+
+Para jogar, basta clicar no ícone criado na seu Menu Iniciar ou ir até a pasta acima e executar o "RPG_RT.exe".
+------------------------------------------------------------
+[2] VERSÃO MOBILE (ANDROID)
+------------------------------------------------------------
+Para jogar no celular, é necessário um emulador de RPG Maker 2000.
+
+1. Baixe o aplicativo "EasyRPG Player" na Google Play Store.
+2. Abra o aplicativo EasyRPG uma vez para que ele crie as pastas necessárias no seu celular.
+3. Baixe o arquivo .ZIP do jogo no seu celular.
+4. Extraia o conteúdo do .ZIP para a pasta criada pelo aplicativo.
+   Geralmente o caminho é: "/easyrpg/games"
+5. Abra o EasyRPG novamente, o jogo aparecerá na lista. Basta tocar para iniciar!
+------------------------------------------------------------
+PROBLEMAS COMUNS?
+------------------------------------------------------------
+- No Android, se o jogo ficar sem som ou lento, verifique as configurações do EasyRPG.
+------------------------------------------------------------
+Bom jogo!
+Desenvolvido por: Mael Retro RPG
+============================================================
